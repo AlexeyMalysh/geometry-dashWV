@@ -33,6 +33,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation'com.loopj.android:android-async-http:1.4.9'
 //    implementation 'com.github.GoodieBag:CarouselPicker:v1.2'
 //    implementation 'com.github.lucas-asu:carousel-picker-android:v1.0'
     implementation 'com.synnapps:carouselview:0.1.5'
